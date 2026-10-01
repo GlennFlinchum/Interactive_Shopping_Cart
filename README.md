@@ -53,7 +53,7 @@ This project was developed for **CNT 4714: Enterprise Computing**, focusing on a
 ---
 
 ### 2. Inventory Validation
-![Item Search](path/to/image2.png)
+![Item Search](ISC_quantity_error.png)
 *Description: Searching for an item by ID and quantity. The application displays an error ('ERROR: ITEM NOT IN STOCK') with the quantity available.*
 
 ---
@@ -65,7 +65,7 @@ This project was developed for **CNT 4714: Enterprise Computing**, focusing on a
 ---
 
 ### 4. Transaction Log View
-![Shopping Cart State](path/to/image3.png)
+![Shopping Cart State](ISC_transaction_logs.png)
 *Description: The file (`transactions.csv`) shows all the completed transactions with trasnsaction ID, item ID, item name, item price, quantity purchased, discount applied, total, date & time.*
 
 ---
